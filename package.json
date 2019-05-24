@@ -1,14 +1,14 @@
 {
-  "name": "strong-error-handler",
+  "name": "loopback-strong-error-handler",
   "description": "Error handler for use in development and production environments.",
   "license": "MIT",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "engines": {
     "node": ">=6"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/strongloop/strong-error-handler.git"
+    "url": "https://github.com/louie007/strong-error-handler.git"
   },
   "main": "lib/handler.js",
   "scripts": {
@@ -41,5 +41,10 @@
       "dashboard-controller"
     ]
   },
-  "author": "IBM Corp."
+  "author": "IBM Corp.",
+  "contributors": [
+    {
+      "name": "Louis Bao"
+    }
+  ]
 }
